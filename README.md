@@ -15,3 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # dice_rollapp
+
+a very basic and simple app with a pink gradient, a picture of a yellow dice and a blue elevated button that says "roll dice". on clicking the button, the dice shows different images and hence different numbers.
